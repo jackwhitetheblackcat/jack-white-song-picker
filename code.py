@@ -13,3 +13,4 @@ def choose_song():
 choose_song()
 
         
+## Need to add the rest of the albums for this to. However, these two are definitely the best. Although this program doesn't include my all time favorite song, a White Stripes ditty called "I Think I Smell A Rat."
