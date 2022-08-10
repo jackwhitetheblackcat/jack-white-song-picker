@@ -9,6 +9,9 @@ Lazaretto = ["Three Women","Lazaretto","Temporary Ground","Would You Fight for M
 def choose_song():
     if album == "1":
               print(random.choice(Blunderbuss))
+    if album == "2":
+              print(random.choice(Lazaretto))
+    else: print("Please select from the two albums by typing in "1" or "2". I will add more ASAP. Love, Jack.")
             
 choose_song()
 
